@@ -20,3 +20,7 @@ This project makes use of `tinytorchutil` ([Git-Repo](https://github.com/Chainat
 ```bash
 pip install tinytorchutil
 ```
+
+## Acknowledgments:
+
+This project was inspired by Jeremy Howard's Deep Learning teachings and is aimed to better the understanding of relevant concepts.

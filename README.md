@@ -15,7 +15,7 @@ Ensure you have Python 3.6 or later installed.
 
 ### tinytorchutil Package
 
-This project makes use of `tinytorchutil`, a personal toy package containing a collection of utility functions found useful. Install it using pip:
+This project makes use of `tinytorchutil` ([Git-Repo](https://github.com/Chainathan/tiny-torch-util)), a personal toy package containing a collection of utility functions found useful. Install it using pip:
 
 ```bash
 pip install tinytorchutil

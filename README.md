@@ -20,5 +20,3 @@ This project makes use of `tinytorchutil` ([Git-Repo](https://github.com/Chainat
 ```bash
 pip install tinytorchutil
 ```
-
----
